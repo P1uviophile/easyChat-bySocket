@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="file2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ex_client/服务器发送的文件/file.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
